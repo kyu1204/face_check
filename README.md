@@ -1,6 +1,5 @@
 졸업프로젝트
-
-Face_Check
-(python)
-
--> openCV, dlib, face_recognition
+===========
+Face_Check (python3)
+-----------
+>openCV, dlib, face_recognition
